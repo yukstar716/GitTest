@@ -16,6 +16,8 @@ public class MainActivity extends ActionBarActivity {
 
     //just a test
 
+    // another test to check android studio actually push this comment into my github file
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
